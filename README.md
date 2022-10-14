@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 <a href="https://makers.appwrite.io/davidagoua">
-    <img src="https://appwrite.io/cards/makers/davidagoua" alt="davidagoua's Maker Card" height="50px" />
+    <img src="https://appwrite.io/cards/makers/davidagoua" alt="davidagoua's Maker Card" height="200px" />
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidagoua&label=Profile%20views&color=0e75b6&style=flat" alt="davidagoua" /> </p>
