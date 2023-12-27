@@ -5,7 +5,7 @@
     <img src="https://appwrite.io/cards/makers/davidagoua" alt="davidagoua's Maker Card" height="200px" />
 </a>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7e2c68ac-cf14-40d8-aaae-c466c9d9b736" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7e2c68ac-cf14-40d8-aaae-c466c9d9b736" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/7e2c68ac-cf14-40d8-aaae-c466c9d9b736/public_url)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidagoua&label=Profile%20views&color=0e75b6&style=flat" alt="davidagoua" /> </p>
 
