@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm David Christian Agoua</h1>
 <h3 align="center">A passionate software developer</h3>
+
+<a href="https://www.credly.com/badges/7e2c68ac-cf14-40d8-aaae-c466c9d9b736/public_url">
+    <img src="https://images.credly.com/size/220x220/images/524a8202-5c19-45f2-a1eb-f93c102c865b/image.png" alt="Certified TigerGraph Associate Exam" height="200px" />
+</a>
 <a href="https://makers.appwrite.io/davidagoua">
-    <img src="https://appwrite.io/cards/makers/davidagoua" alt="davidagoua's Maker Card" height="200px" />
+    <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="davidagoua's Maker Card" height="200px" />
+</a>
+<a href="https://makers.appwrite.io/davidagoua">
+    <img src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="davidagoua's Maker Card" height="200px" />
 </a>
 
 <a href="https://makers.appwrite.io/davidagoua">
@@ -10,9 +17,7 @@
 <a href="https://makers.appwrite.io/davidagoua">
     <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="davidagoua's Maker Card" height="200px" />
 </a>
-<a href="https://www.credly.com/badges/7e2c68ac-cf14-40d8-aaae-c466c9d9b736/public_url">
-    <img src="https://images.credly.com/size/220x220/images/524a8202-5c19-45f2-a1eb-f93c102c865b/image.png" alt="Certified TigerGraph Associate Exam" height="200px" />
-</a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidagoua&label=Profile%20views&color=0e75b6&style=flat" alt="davidagoua" /> </p>
 
