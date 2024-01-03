@@ -3,8 +3,12 @@
 <a href="https://makers.appwrite.io/davidagoua">
     <img src="https://appwrite.io/cards/makers/davidagoua" alt="davidagoua's Maker Card" height="200px" />
 </a>
+
 <a href="https://makers.appwrite.io/davidagoua">
     <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="davidagoua's Maker Card" height="200px" />
+</a>
+<a href="https://makers.appwrite.io/davidagoua">
+    <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="davidagoua's Maker Card" height="200px" />
 </a>
 <a href="https://www.credly.com/badges/7e2c68ac-cf14-40d8-aaae-c466c9d9b736/public_url">
     <img src="https://images.credly.com/size/220x220/images/524a8202-5c19-45f2-a1eb-f93c102c865b/image.png" alt="Certified TigerGraph Associate Exam" height="200px" />
