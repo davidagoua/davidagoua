@@ -17,7 +17,9 @@
 <a href="https://makers.appwrite.io/davidagoua">
     <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="davidagoua's Maker Card" height="200px" />
 </a>
-
+<a href="https://makers.appwrite.io/davidagoua">
+    <img src="https://api.badgr.io/public/assertions/k6h0bMlxR4WjyDVP4os39w/image" alt="davidagoua's Maker Card" height="200px" />
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidagoua&label=Profile%20views&color=0e75b6&style=flat" alt="davidagoua" /> </p>
 
